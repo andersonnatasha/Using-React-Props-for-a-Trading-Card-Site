@@ -11,3 +11,9 @@ body {
   font-family: "Trebuchet MS", Helvetica, sans-serif
 }
 
+#balloonicorn-img {
+  display: block;
+  width: 180px;
+  margin-left: auto;
+  margin-right: auto;
+}
