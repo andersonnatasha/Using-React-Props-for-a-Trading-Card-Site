@@ -8,10 +8,10 @@ div.card {
 }
 
 body {
-  font-family: "Trebuchet MS", Helvetica, sans-serif
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
 }
 
-#balloonicorn-img {
+#homepage-balloonicorn {
   display: block;
   width: 180px;
   margin-left: auto;
